@@ -3,4 +3,7 @@
 GET {{AvalphaTechnologies.CommissionCalculator_HostAddress}}/weatherforecast/
 Accept: application/json
 
+Get {{AvalphaTechnologies.CommissionCalculator_HostAddress}}/commission/
+Accept: application/json
+
 ###
